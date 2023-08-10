@@ -42,7 +42,7 @@ Skills
 
 Language
 ======
-* **English**: Full Professional Proficiency - [IELTS 7.0](https://github.com/Thanh-An-Pham/Thanh-An-Pham.github.io/blob/master/files/IELTS%20CERTIFICATE.jpg)
+* **English**: Full Professional Proficiency - [IELTS 7.0](https://github.com/Thanh-An-Pham/Thanh-An-Pham.github.io/blob/master/files/IELTS%20CERTIFICATE.gdf)
 
 
 Course
