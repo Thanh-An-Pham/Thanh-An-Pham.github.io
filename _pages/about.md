@@ -11,15 +11,16 @@ redirect_from:
 
 Personal information
 ======
-I am Tieu Long Phan, a Master's graduate student in the Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City. My research interests are applying machine learning and deep learning techniques to solving challenging problems in pharmaceutical chemistry, drug discovery, and computational chemistry. This is my blog, where I store my projects and some fundamental code for my research.
+I am Thanh An Pham, a senior student in the Faculty of Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh City. My research interests are applying machine learning and deep learning techniques to solving challenging problems in pharmaceutical chemistry, drug discovery, and computational chemistry. This is my blog, where I store my projects and some fundamental code for my research.
 
 
 Research interests
 ======
 My primary research interests involve:  
+- Molecular docking and molecular dynamics
+- Molecular representation based on background model from unlabeled data
 - Development of Quantitative Structure-Activity Relationships (QSAR) models using machine learning algorithms
 - Computer-aided drug design methodologies developement
-- Molecular representation based on background model from unlabeled data
 
 My research focuses on three main problems in drug discovery:
 1. **Molecular representation**: how can we use unlabeled data (more than billions) to make features more generalizable? How can we vectorize steroisomerism information (conformation and ensemble conformation) from graph data?
