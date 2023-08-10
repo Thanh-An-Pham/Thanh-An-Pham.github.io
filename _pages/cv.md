@@ -11,12 +11,10 @@ redirect_from:
 
 Education
 ======
-* 2010-2013: Baccalaureate, High school for the gifted.
-* 2013-2018: [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city.
-* 2020-2022: [MSc. in Pharmacy](https://tieulongphan.github.io/files/Master%20Degree.pdf),  University of Medicine and Pharmacy at Ho Chi Minh city.
-  * GPA: 8.68/10 - ranking 1%
-  * Thesis: *In silico* modeling for prediction of potential HIV integrase inhibitors - Grade: 9.6/10
-* 2023+: Pursing Ph.D position in cheminformatics/machine learning.
+* 2016-2019: Baccalaureate, Vo Nguyen Giap High school for the gifted.
+* 2019-2024: [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city.
+  * CGPA: 8.68/10 - ranking 1%
+* 2024+: Pursing Mcs position in cheminformatics/machine learning.
 
 Work experience
 ======
@@ -46,43 +44,23 @@ Work experience
   * Supervisor: [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
 
  
-Supervision of undergraduate students
-======
-* **In progress**
-  * ***D18***
-   1. The Chuong **Trinh**: Develop machine learning model, feed forward neural network, 3D image based convolutional neural network and graph neural network targeting ALK protein
-   2. Hoang Son **Le Lai**: Perform, compare performance of six molecular docking tools and develop graph neural networks to predict potential interaction between ligands and Tubulin receptor
-   3. [Gia Bao **Truong**](https://github.com/buchijw): Optimize molecules targeting VEGFR using variation autoencoder
-   4. [Xuan Truc **Tran Dinh**](https://github.com/XuanTruc810): Perform and compare performance of similarity searching and traditional pharmacophore using ensemble learning.
-  * ***D19***
-   5. [Thinh Van **To**](https://github.com/ThinhUMP): Develop molecular representation using 3D-CNN incorporating graph neural networks.
-   6. [Thanh An **Pham**](https://github.com/anpham2209): Develop molecular docking tools incorporating graph neural networks to predict conformation of ligands interacting with protein.
-   7. Phuoc Chung **Nguyen Van**: Enhance reaction yield using bayesian optimization.
-  
-* **Completed**
-  * ***D17***
-   8. Bao Vy **Doan Ngoc**: Application of molecular similarity, machine learning and molecular docking method for PD-L1 inhibitors virtual screening.
-   9. <a href="https://www.linkedin.com/in/tuyet-minh-phan-19141424a/" target="_blank">Tuyet Minh **Phan**</a> : Machine learning models development to screen HIV integrase inhibitors followed with total synthesis and *in vitro* evaluation.
-   10. Hoai Phuong **Nguyen Thi**: *In silico* study of SGLT2 inhibitors from classical to applied machine learning.
-   11. Ha My **Dao Nguyen**: Application of pharmaceutical chemistry filter funnel and molecular docking model to screen for STAT3 inhibitors from derivatives of Cucurbitacin E.
-
-
 Skills
 ======
 * **Programming**: Python, C++, Linux, Git, OOP
-* **Cheminformatics**: RDKit, MOE, Pymol, Autodock, Gromacs, VMD
+* **Cheminformatics**: RDKit, deepchem, chemprop
+* **Protein Modeling**: MOE, Pymol, Autodock, Gromacs, VMD, MDAnalysis, mdtraj
 * **Data science**
   * Data analysis: visualization (seaborn, matplotlib, plotly), linear algebra, calculus, probability and statistics (numpy, pandas)
   * Data mining: data pipeline development including handle low variance features, missing values, univariate and multivariate outliers; conduct statistical test for decision making in model selection using cross-validation
   * Machine learning: scikit-learn, imblearn, XGBoost, CatBoost, optimization (grid search and bayesian search)
   * Deep Learning: Pytorch, Tensorflow, Keras, CNNs, RNNs, GNN.
-* **Process Automation**
+* **Process Automation**:
 * **Personal skill**: Problem solving, crictical thinking, communication
 
 Language
 ======
-* **English**: Full Professional Proficiency - [IELTS 7.5](https://github.com/TieuLongPhan/TieuLongPhan.github.io/blob/master/files/IELTS%20CERTIFICATE.pdf)
-* **Japanese**: Professional Working Proficiency - JPLT N3
+* **English**: Full Professional Proficiency - [IELTS 7.0](https://github.com/TieuLongPhan/TieuLongPhan.github.io/blob/master/files/IELTS%20CERTIFICATE.pdf)
+
 
 Course
 ======
