@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* **2018 - now: Research Assistant - Organic Chemistry Department**
+* **2020 - now: Research Assistant - Organic Chemistry Department**
   * **Methodology development**
     * [*MolUtil*](https://thanh-an-pham.github.io//portfolio/2023-05-01-MolUtil/): molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
     * [*DockValid*](https://thanh-an-pham.github.io//portfolio/2023-05-06-DockValid/): automated result extraction and validation (retrospective control-ROC plot)
@@ -29,7 +29,7 @@ Work experience
  
 Skills
 ======
-* **Programming**: [Python](Cousera.com), C++, Linux, Git, OOP
+* **Programming**: [Python]((https://cousera.com), C++, Linux, Git, OOP
 * **Cheminformatics**: RDKit, deepchem, chemprop
 * **Protein Modeling**: MOE, Pymol, Autodock, Gromacs, VMD, MDAnalysis, mdtraj
 * **Data science**
@@ -42,7 +42,7 @@ Skills
 
 Language
 ======
-* **English**: Full Professional Proficiency - [IELTS 7.0](https://github.com/Thanh-An-Pham/Thanh-An-Pham.github.io/blob/master/files/IELTS%20CERTIFICATE.gdf)
+* **English**: Full Professional Proficiency - [IELTS 7.0](https://github.com/Thanh-An-Pham/Thanh-An-Pham.github.io/blob/master/files/IELTS_CERTIFICATE.pdf)
 
 
 Course
