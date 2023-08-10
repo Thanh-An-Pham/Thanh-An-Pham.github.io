@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tieu Long Phan"
+title                    : "Thanh-An Pham"
 title_separator          : "-"
-name                     : &name "Tieu Long Phan"
+name                     : &name "Thanh-An Pham"
 description              : &description "personal description"
-url                      : https://TieuLongPhan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://thanh-an-pham.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "TieuLongPhan/TieuLongPhan.github.io"
+repository               : "https://github.com/Thanh-An-Pham"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tieu Long Phan"
+  name             : "Thanh-An Pham"
   avatar           : "Avatar.jpeg"
-  bio              : "MS. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
+  bio              : "BSc. in Pharmacy; Expertise in applying machine learning techniques, cheminformatics and automated pipeline to screen new biologically active molecules."
   location         : "Ho Chi Minh city"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "ptlong8995@gmail.com"
+  email            : "ptayds2001@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TieuLongPhan"
+  github           : "Thanh-An-Pham"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/tieu-long-phan-b225331a5/"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3532-2064"
+  linkedin         : #"https://www.linkedin.com/in/tieu-long-phan-b225331a5/"
+  orcid            : "https://orcid.org/0000-0003-0271-2696"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
