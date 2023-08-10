@@ -29,7 +29,7 @@ Work experience
  
 Skills
 ======
-* **Programming**: [Python]((https://cousera.com), C++, Linux, Git, OOP
+* **Programming**: [Python](https://cousera.com), C++, Linux, Git, OOP
 * **Cheminformatics**: RDKit, deepchem, chemprop
 * **Protein Modeling**: MOE, Pymol, Autodock, Gromacs, VMD, MDAnalysis, mdtraj
 * **Data science**
