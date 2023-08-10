@@ -12,9 +12,9 @@ redirect_from:
 Education
 ======
 * 2016-2019: Baccalaureate, Vo Nguyen Giap High school for the gifted.
-* 2019-2024: [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city.
-  * CGPA: 3.00/4 - ranking 7%
-* 2024+: Pursing Mcs position in cheminformatics/machine learning.
+* 2019-2024: B.S. in Pharmacy, University of Medicine and Pharmacy at Ho Chi Minh city.
+  * CGPA: 3.00/4 - top 7% (33/463)
+* 2024+: Pursing MsC position in cheminformatics/machine learning.
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Work experience
  
 Skills
 ======
-* **Programming**: Python, C++, Linux, Git, OOP
+* **Programming**: [Python](Cousera.com), C++, Linux, Git, OOP
 * **Cheminformatics**: RDKit, deepchem, chemprop
 * **Protein Modeling**: MOE, Pymol, Autodock, Gromacs, VMD, MDAnalysis, mdtraj
 * **Data science**
@@ -42,19 +42,13 @@ Skills
 
 Language
 ======
-* **English**: Full Professional Proficiency - [IELTS 7.0](https://github.com/TieuLongPhan/TieuLongPhan.github.io/blob/master/files/IELTS%20CERTIFICATE.pdf)
+* **English**: Full Professional Proficiency - [IELTS 7.0]([https://github.com/TieuLongPhan/TieuLongPhan.github.io/blob/master/files/IELTS%20CERTIFICATE.pdf](https://github.com/Thanh-An-Pham/Thanh-An-Pham.github.io/blob/master/files/IELTS%20CERTIFICATE.jpg))
 
 
 Course
 ======
-1. Python for developers - VTC Academy
+1. Google IT Automation with Python Professional Certificate - Coursera
 2. AI specialist and machine enygineer - VTC Academy
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Publications
 ======
@@ -64,10 +58,7 @@ Publications
   
 Honours
 ======
-* 2018 - [Best poster presentation](https://tieulongphan.github.io/files/Giấy chứng nhận giải nhất poster.pdf) - "Synthesis, biological activity evaluations of some *N*-alkyl/ aryl-2-aryl benzimidazole"- Pharmaceutical sciences and Technology conference.  
-* 2013 - Silver medal for Vietnamese Chemistry Olympiad (top 32, member of bootcam for ICho)
-* 2012 - Gold medal in 30/4 Chemistry Olympiad of southern Vietnam
-
+* 2016 - Silver medal for Vietnamese Chemistry Olympiad (top 32, member of bootcam for ICho)
 
 References
 ======
