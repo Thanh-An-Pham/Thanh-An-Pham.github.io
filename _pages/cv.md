@@ -13,7 +13,7 @@ Education
 ======
 * 2016-2019: Baccalaureate, Vo Nguyen Giap High school for the gifted.
 * 2019-2024: [B.S. in Pharmacy](https://tieulongphan.github.io/files/Bachelor_s%20Degree.pdf), University of Medicine and Pharmacy at Ho Chi Minh city.
-  * CGPA: 3.00/4 - ranking 10%
+  * CGPA: 3.00/4 - ranking 7%
 * 2024+: Pursing Mcs position in cheminformatics/machine learning.
 
 Work experience
@@ -21,7 +21,7 @@ Work experience
 * **2018 - now: Research Assistant - Organic Chemistry Department**
   * **Methodology development**
     * [*MolUtil*](https://thanh-an-pham.github.io//portfolio/2023-05-01-MolUtil/): molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
-    * [*DockValid*](https://github.com/Thanh-An-Pham/Thanh-An-Pham.github.io/blob/master/_portfolio/2023-05-06-DockValid.md): automated result extraction and validation (retrospective control-ROC plot)
+    * [*DockValid*](https://thanh-an-pham.github.io//portfolio/2023-05-06-DockValid/): automated result extraction and validation (retrospective control-ROC plot)
   * **Application of AI methods in drug discovery**
     * [*HIV-1 integrase*](https://tieulongphan.github.io/project/2022-11-1-thesis/) (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
   * Supervisor: [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
