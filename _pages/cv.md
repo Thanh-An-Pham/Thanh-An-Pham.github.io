@@ -19,11 +19,11 @@ Education
 Work experience
 ======
 * **2020 - now: Research Assistant - Organic Chemistry Department**
-  <!-- * **Methodology development**
+  * **Methodology development**
     * [*MolUtil*](https://thanh-an-pham.github.io//portfolio/2023-05-01-MolUtil/): molecular standardization, featurization, medicinal chemistry filtration, and chemical space visualization (incorporate with RDKit)
     * [*DockValid*](https://thanh-an-pham.github.io//portfolio/2023-05-06-DockValid/): automated result extraction and validation (retrospective control-ROC plot)
   * **Application of AI methods in drug discovery**
-    * [*HIV-1 integrase*](https://tieulongphan.github.io/project/2022-11-1-thesis/) (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU) -->
+    * [*HIV-1 integrase*](https://thanh-an-pham.github.io/project/2022-11-1-thesis/) (Master thesis): QSAR pipeline for data type selection and model building, pharmacophore modeling with ensemble methods, alphafold2 for protein curation and benchmarking molecular docking packages (Vina, Smina, Qvina2, Vina GPU, Autodock GPU)
   * Supervisor: [**Assoc.Prof.Truong Ngoc Tuyen, PhD**](http://uphcm.edu.vn/emplinfo.aspx?EmplCode=truongngoctuyen)
 
  
