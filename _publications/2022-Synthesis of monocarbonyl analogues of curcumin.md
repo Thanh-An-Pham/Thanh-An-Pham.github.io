@@ -13,7 +13,7 @@ Synthesis of 24 assymetric Monocarbonyl Analogues of Curcumin (MACs) which conta
 **Keywords**: curcumin, MACs, 1H-pyrazole, aldol condensation.
 [Preprint](https://Thanh-An-Pham.github.io/files/Synthesis%20of%20monocarbonyl%20analogues%20of%20curcumin.pdf)
 
-Recommended citation: Thi Khanh Ngan Nguyen, Quoc Hoai Nam Đoan, Bao Ngoc Nguyen, Thanh An Pham, Tran Anh Thu Vu, Anh Tien Le, Ngoc Tuyen Truong. Synthesis of monocarbonyl analogues of curcumin containing 1-(4-nitrophenyl)-1H-pyrazole and 1,3-diphenyl-1H-pyrazole heterocyclics. **Vietnamese Pharmacy Journal** (Accepted)
+Recommended citation: Thi Khanh Ngan Nguyen, Quoc Hoai Nam Đoan, Bao Ngoc Nguyen, **Thanh An Pham**, Tran Anh Thu Vu, Anh Tien Le, Ngoc Tuyen Truong. Synthesis of monocarbonyl analogues of curcumin containing 1-(4-nitrophenyl)-1H-pyrazole and 1,3-diphenyl-1H-pyrazole heterocyclics. **Vietnamese Pharmacy Journal** (Accepted)
 
 
 
